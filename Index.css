@@ -1,0 +1,178 @@
+a, .Corps, .Bonus
+{
+    font-family: Arial;
+    color: black;
+    text-decoration: none;
+}
+
+.Entete
+{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.co
+{
+    border-top: 8px #4387FD solid;
+    border-right: 15px #4387FD solid;
+    border-bottom: 8px #4387FD solid;
+    border-left: 15px #4387FD solid;
+    border-radius: 2px;
+    background: #4387FD;
+    color: white;
+    font-weight: bold
+}
+
+.Gmail:hover
+{
+    text-decoration: underline
+}
+
+.Images:hover
+{
+    text-decoration: underline
+}
+
+.InfoConsommateurs:hover
+{
+    text-decoration: underline
+}
+
+.Confidentialité:hover
+{
+    text-decoration: underline
+}
+
+.Conditions:hover
+{
+    text-decoration: underline
+}
+
+.Publicite:hover
+{
+    text-decoration: underline
+}
+
+.Entreprise:hover
+{
+    text-decoration: underline
+}
+
+.APropos:hover
+{
+    text-decoration: underline
+}
+
+.Comment:hover
+{
+    text-decoration: underline
+}
+
+.EspaceGmailImages
+{
+    width: 15px;
+}
+
+.EspaceImagesLogo
+{
+    width: 15px;
+}
+
+.EspaceLogoConnexion
+{
+    width: 15px;
+}
+
+.LogoGoogle
+{
+    text-align: center;
+}
+
+.Search
+{
+    text-align: center;
+}
+
+.EspaceRecherche
+{
+    justify-content: center;
+}
+
+.Corps
+{
+    display: flex;
+    justify-content: center;
+}
+
+.EspaceRecherche
+{
+    width: 25px;
+}
+
+.EspaceFrance
+{
+    width: 15px;
+}
+
+.esp
+{
+    width: 15px
+}
+
+.InfoConf, .ConfCond, .CondPara, .ParaPub, .PubEntre, .EntrePro, .ProCom
+{
+    width: 20px
+}
+
+.France
+{
+    display: flex;
+    justify-content: flex-start;
+    font-family: Arial;
+    color: black;
+    font-size: 12px;
+    border-top: 1px #e4e4e4 solid;
+    background: #f4f4f4;
+}
+
+.vide
+{display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    border-top: #e4e4e4 solid;
+    background: #f4f4f4;
+    width: 48%;
+}
+
+.Bonus
+{
+    display: flex;
+    justify-content: center;
+    font-size: 10px;
+}
+
+.pu
+{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+    border-top: #e4e4e4 solid;
+    background: #f4f4f4
+}
+
+.info
+{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    border-top: #e4e4e4 solid;
+    background: #f4f4f4;
+}
+
+.footer
+{
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
